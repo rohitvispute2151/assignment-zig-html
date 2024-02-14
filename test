@@ -1,0 +1,66 @@
+ <!-- <div class="best-selling-carrasole ">
+                <article class="best-selling-card">
+                    <div class="best-selling-card-image"><img src="./public/chair1.png" alt="" srcset=""></div>
+                    <div class="best-selling-card-body">
+                        <span>Chair</span>
+                        <p>Sakarias Armchair</p>
+                        <div class="card-rating">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                        <div class="card-price">
+                            <p><sup>$</sup>&nbsp;392</p>
+                            <i class="fa-solid fa-circle-plus"></i>
+                        </div>
+                    </div>
+                </article>
+                <article class="best-selling-card">
+                    <div class="best-selling-card-image"><img src="./public/chair2.png" alt="" srcset=""></div>
+                    <div class="best-selling-card-body">
+                        <span>Chair</span>
+                        <p>Sakarias Armchair</p>
+                        <div class="card-rating">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                        <div class="card-price">
+                            <p><sup>$</sup>&nbsp;392</p>
+                            <i class="fa-solid fa-circle-plus"></i>
+                        </div>
+                    </div>
+                </article>
+                <article class="best-selling-card">
+                    <div class="best-selling-card-image"><img src="./public/chair1.png" alt="" srcset=""></div>
+                    <div class="best-selling-card-body">
+                        <span>Chair</span>
+                        <p>Sakarias Armchair</p>
+                        <div class="card-rating">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                        <div class="card-price">
+                            <p><sup>$</sup>&nbsp;392</p>
+                            <i class="fa-solid fa-circle-plus"></i>
+                        </div>
+                    </div>
+                </article>
+                <article class="best-selling-card">
+                    <div class="best-selling-card-image"><img src="./public/chair4.png" alt="" srcset=""></div>
+                    <div class="best-selling-card-body">
+                        <span>Chair</span>
+                        <p>Sakarias Armchair</p>
+                        <div class="card-rating">
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                            <i class="fa-solid fa-star"></i>
+                        </div>
+                        <div class="card-price">
+                            <p><sup>$</sup>&nbsp;392</p>
+                            <i class="fa-solid fa-circle-plus"></i>
+                        </div>
+                    </div>
+                </article>
+            </div> -->
